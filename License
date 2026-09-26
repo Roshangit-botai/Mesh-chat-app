@@ -1,0 +1,35 @@
+
+---
+
+## 1️⃣2️⃣ `.gitignore`
+
+```gitignore
+# Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
