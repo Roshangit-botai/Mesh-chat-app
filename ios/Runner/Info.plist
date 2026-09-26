@@ -1,0 +1,6 @@
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>We need Bluetooth to find nearby devices for offline chat.</string>
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>We need Bluetooth to chat without internet.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Location helps discover nearby Bluetooth devices.</string>
