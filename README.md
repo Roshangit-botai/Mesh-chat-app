@@ -17,7 +17,7 @@ A peer-to-peer chat app that works **without internet, WiFi, or cell towers** â€
 
 ## ðŸš€ Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/offline-mesh-chat.git
+git clone https://github.com/roshangit botAI/offline-mesh-chat.git
 cd offline-mesh-chat
 flutter pub get
 flutter run
