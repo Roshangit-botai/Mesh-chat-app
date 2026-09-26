@@ -1,0 +1,15 @@
+# 1. Create the folder and files above, then:
+cd offline-mesh-chat
+
+# 2. Init git
+git init
+git add .
+git commit -m "Initial release: Offline BLE mesh chat"
+
+# 3. Create empty repo on GitHub named 'offline-mesh-chat'
+#    (Do NOT initialize with README/gitignore/license)
+
+# 4. Connect and push
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/offline-mesh-chat.git
+git push -u origin main
