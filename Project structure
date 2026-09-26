@@ -1,0 +1,21 @@
+offline-mesh-chat/
+├── android/
+│   └── app/src/main/AndroidManifest.xml
+├── ios/
+│   └── Runner/Info.plist
+├── lib/
+│   ├── main.dart
+│   ├── models/
+│   │   └── mesh_message.dart
+│   ├── services/
+│   │   ├── ble_service.dart
+│   │   └── storage_service.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   └── chat_screen.dart
+│   └── widgets/
+│       └── message_bubble.dart
+├── pubspec.yaml
+├── README.md
+├── LICENSE
+└── .gitignore
